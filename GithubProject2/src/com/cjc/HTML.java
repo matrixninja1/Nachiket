@@ -12,4 +12,12 @@ public class HTML {
         System.out.println(c);
 	}
 
+public void m2(){
+
+
+System.out.println("M2 of Krishna");
+	
+}
+
+	
 }
